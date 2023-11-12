@@ -1,0 +1,4 @@
+{
+    'Triangle': 3,
+    'Square': 4
+}
